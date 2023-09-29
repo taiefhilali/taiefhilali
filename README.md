@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taief HILALI</h1>
 <h3 align="center">A passionate FULLSTACK developer from TUNISIA</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiefhilali" alt="taiefhilali" /></a> </p>
+
 
 - 🔭 I’m currently working on [devopsproject(kaddem)](https://github.com/ZeinebHaraketi/5TWIN5-G4-Kaddem.git)
 
