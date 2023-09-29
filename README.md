@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taief HILALI</h1>
 <h3 align="center">A passionate FULLSTACK developer from TUNISIA</h3>
-<img align="right" alt="Coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSelmaNdapanda&psig=AOvVaw11W56d5Vfikzd6InEW2DPc&ust=1696114203793000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDJ_vjz0IEDFQAAAAAdAAAAABAI">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiief" alt="taiief" /></a> </p>
 
