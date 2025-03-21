@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [devopsproject(kaddem)](https://github.com/ZeinebHaraketi/5TWIN5-G4-Kaddem.git)
 
-- 🌱 I’m currently learning **REACT,ANGULAR**
+- 🌱 I’m currently learning **Next.js,Vue.js,Nest.js**
 
 - 💬 Ask me about **react,springboot,angular,node**
 
