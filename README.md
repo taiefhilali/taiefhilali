@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taief HILALI</h1>
-<h3 align="center">A passionate FULLSTACK developer from TUNISIA</h3>
+<h3 align="center">A passionate Software Engineer and FULLSTACK developer from TUNISIA</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 
-- 🔭 I’m currently working on [HomeRent)]()
+- 🔭 I’m currently working on [HomeRent website with NestJS and NextJS]()
 
 - 🌱 I’m currently learning **Next.js,Vue.js,Nest.js**
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **taief.elhilali@outlook.com** or **taiefhilali00@outlook.com**
 
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
