@@ -3,12 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 
-- 🔭 I’m currently working on [HomeRent website with NestJS and NextJS]()
-
-- 🌱 I’m currently learning **Next.js,Vue.js,Nest.js**
-
-- 💬 Ask me about **react,springboot,angular,node**
-
 - 📫 How to reach me **taief.elhilali@outlook.com** or **taiefhilali00@outlook.com**
 
 
